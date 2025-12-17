@@ -23,7 +23,7 @@ We used Firebase for login/registration, which ensures users can log in and out 
 What our app offers:
 Everything you need to stay up-to-date on your favorite sport, gathered in one place.
 
-## screenshots
+screenshots
 ![first_login](photo1.png)
 ![Sign_up](photo2.jpg)
 ![second_login](photo3.jpg)
@@ -32,3 +32,12 @@ Everything you need to stay up-to-date on your favorite sport, gathered in one p
 ![add_page](photo6.jpg)
 ![filter_page](photo7.jpg)
 ![profile_page](photo8.jpg)
+
+Platform:
+-Android
+-IOS
+
+
+Conclusion:
+Sports Trends is a mobile app that makes sports news and videos easy and convenient to browse. All relevant content is gathered in one place, and users can customize the feed to suit their interests
+This project uses Flutter for cross-platform development and Firebase for secure authentication. The project's goals were achieved: it visually demonstrates practical mobile app development skills, working with backend services, and effective team collaboration
