@@ -1,6 +1,5 @@
 Team:
-Baizhuma Aibek
-Narbayev Danial
+Baizhuma Aibek and Narbayev Danial
 
 Project:
 Sport Trends: This is a mobile app for people interested in and passionate about sports.
@@ -34,8 +33,8 @@ screenshots
 ![profile_page](photo8.jpg)
 
 Platform:
--Android
--IOS
+Android,
+IOS
 
 
 Conclusion:
