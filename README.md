@@ -42,8 +42,7 @@ Everything you need to stay up-to-date on your favorite sport, gathered in one p
 </p>
 
 ## Platform:
-Android
-IOS
+Android, IOS
 
 
 ## Conclusion:
