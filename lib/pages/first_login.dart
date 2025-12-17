@@ -20,7 +20,7 @@ class FirstLogin extends StatelessWidget {
                   alignment: Alignment.center,
                   width: 450,
                   child: Text(
-                    "Welcome to my Final project!",
+                    "Welcome to our Final project!",
                     style: TextStyle(
                       fontSize: 24,
                       color: Color(0xFFE6EAF0),
@@ -34,7 +34,7 @@ class FirstLogin extends StatelessWidget {
                   alignment: Alignment.center,
                   width: 250,
                   child: Text(
-                    "This project is not perfect, but I use my brain fully. So next u can see my work.",
+                    "This project is not perfect, but We use our brain fully. So next u can see our work.",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Color(0xFFB8C4D6),

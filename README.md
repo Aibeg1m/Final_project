@@ -1,16 +1,24 @@
-# final_project
+Team:
+Baizhuma Aibek
+Narbayev Danial
 
-A new Flutter project.
+Project:
+Sport Trends: This is a mobile app for people interested in and passionate about sports.
 
-## Getting Started
+Goal:
+To create an effective and simple way to stay up-to-date with the news, find only what interests them, and always stay on top of the latest developments. This is not only for dedicated fans, but also for those who have recently become interested in sports and want to learn even more.
 
-This project is a starting point for a Flutter application.
+Features:
+1) Registration and Login
+2) Viewing Sports News
+3) Viewing Highlights and Videos
+4) News Filtering
+5) Adding Categories
+6) User Profile (Logout and Editing)
+7) Convenient Bottom Navigation, etc.
 
-A few resources to get you started if this is your first Flutter project:
+Backend:
+We used Firebase for login/registration, which ensures users can log in and out securely, increasing reliability.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+What our app offers:
+Everything you need to stay up-to-date on your favorite sport, gathered in one place.
